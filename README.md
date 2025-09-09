@@ -17,12 +17,3 @@ npm run dev       # http://localhost:3000
 npm run build
 npm start
 ```
-
-## Deploy (Vercel)
-1. Crie um repositório (GitHub/GitLab/Bitbucket) e faça push deste projeto.
-2. Em https://vercel.com/new, importe o repositório.
-3. Framework: **Next.js** (detectado automaticamente).
-4. Build Command: `next build` (padrão).
-5. Clique em **Deploy**.
-
-Não há variáveis de ambiente. É só importar e publicar.
